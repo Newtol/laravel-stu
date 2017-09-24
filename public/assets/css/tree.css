@@ -1,0 +1,9 @@
+
+canvas {
+
+    background-color:black;
+
+    cursor: pointer;
+    z-index: -2;
+
+}

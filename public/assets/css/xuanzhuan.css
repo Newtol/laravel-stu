@@ -1,0 +1,6 @@
+#canv {
+  overflow: hidden;
+}
+canvas{
+  display:block;
+}
